@@ -8,3 +8,5 @@ NewWave Media is a mobile-first browser media player. Main navigation: Live, Add
 - [Detailed documentation](https://newwave-free-movies.vercel.app/llms-full.txt)
 - [Structured facts](https://newwave-free-movies.vercel.app/.well-known/newwave-media.json)
 - [Repository](https://github.com/Joenasriani/newwave-media)
+
+Live is the default screen: the built-in USA channel list appears before the player, with an English filter and search. Tap an available channel name to open playback immediately; use Live or Change channel to return to the list. The empty player is hidden until media or the queue is opened. Film verification starts on request, so live-channel discovery has priority.
