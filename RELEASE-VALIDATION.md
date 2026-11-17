@@ -26,3 +26,7 @@ Test Lebanon and UAE separately using authorized connections in each country. Do
 Statuses: PASS / FAIL / NOT TESTED / RIGHTS UNVERIFIED / TERRITORY RESTRICTED. A successful local playback probe is not a rights or worldwide availability certification. Do not publish unverified curated channels as certified.
 
 Release sign-off: OPEN. External per-stream playback, regional access, CORS, real-device and full application testing are outstanding.
+
+## 2026-11-17 compact player update
+
+Player remains visible on startup; validated channels populate a compact selector. Muted autoplay attempts the first validated channel. The Live screen no longer exposes import tools, long rights statements or expanded movie discovery by default. Syntax, DOM ID references and stylesheet preservation checked. Production deployment status does not certify external live playback or actual mobile interaction.
