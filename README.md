@@ -19,3 +19,5 @@ Vercel project: free-movies. Production branch: main. Preserve existing CSS, col
 ## Synchronization
 
 index.html is the functional source of truth. Update README, llms.txt, llms-full.txt, .well-known/newwave-media.json, sitemap, robots, metadata and RELEASE-VALIDATION.md whenever their underlying facts change. No hidden keyword blocks. See [validation evidence](RELEASE-VALIDATION.md).
+
+Live is the default screen: the built-in USA channel list appears before the player, with an English filter and search. Tap an available channel name to open playback immediately; use Live or Change channel to return to the list. The empty player is hidden until media or the queue is opened. Film verification starts on request, so live-channel discovery has priority.
