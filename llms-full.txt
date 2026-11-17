@@ -14,4 +14,4 @@ Blender: https://studio.blender.org/films/
 
 No guaranteed channel count or worldwide availability. Check release evidence: https://github.com/Joenasriani/newwave-media/blob/main/RELEASE-VALIDATION.md
 
-Live is the default screen: the built-in USA channel list appears before the player, with an English filter and search. Tap an available channel name to open playback immediately; use Live or Change channel to return to the list. The empty player is hidden until media or the queue is opened. Film verification starts on request, so live-channel discovery has priority.
+Live is the default experience: the player remains visible above a compact, searchable USA/English channel selector. NewWave attempts muted autoplay of the first channel that passes a device-local playback check. Tap Sound to enable audio or tap a channel to switch. Playlist import and remote playlist URLs are under Add URL. Movies and other sources are collapsed by default. Browser autoplay policies, network conditions and regional restrictions can prevent startup; no individual channel is guaranteed.
